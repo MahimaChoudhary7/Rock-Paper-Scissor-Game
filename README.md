@@ -24,9 +24,10 @@ To get started with the Rock-Paper-Scissors game:
    git clone https://github.com/your-username/rock-paper-scissors.git
    
 2. **Navigate to the Project Directory**:
+   ```bash
    cd rock-paper-scissors
    
-3. **Open the index.html file** in your preferred web browser.
+4. **Open the index.html file** in your preferred web browser.
 
 ## Files
 
